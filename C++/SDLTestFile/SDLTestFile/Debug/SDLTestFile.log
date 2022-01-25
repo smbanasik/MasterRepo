@@ -1,0 +1,14 @@
+﻿01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_GetError referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_MapRGB referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_FillRect referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_GetWindowSurface referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_UpdateWindowSurface referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_DestroyWindow referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_Delay referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function _SDL_main
+01_hello_SDL.obj : error LNK2019: unresolved external symbol _SDL_Quit referenced in function _SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\vclibs\SDL2-2.0.16\lib\x64\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\vclibs\SDL2-2.0.16\lib\x64\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\smban\source\repos\SDLTestFile\Debug\SDLTestFile.exe : fatal error LNK1120: 11 unresolved externals
