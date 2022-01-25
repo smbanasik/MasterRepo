@@ -1,0 +1,5 @@
+﻿  Stats.cpp
+C:\Users\smban\source\repos\TextRPG\TextRPG\Stats.h(155,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\smban\source\repos\TextRPG\TextRPG\Stats.h(158,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\smban\source\repos\TextRPG\TextRPG\Stats.cpp(523,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TextRPG.vcxproj -> C:\Users\smban\source\repos\TextRPG\Debug\TextRPG.exe

@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\smban\source\repos\TextRPG\TextRPG\Main.cpp(318,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smban\source\repos\TextRPG\TextRPG\Main.cpp(322,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smban\source\repos\TextRPG\TextRPG\Main.cpp(362,27): warning C4018: '<': signed/unsigned mismatch
+  Monster.cpp
+  Player.cpp
+C:\Users\smban\source\repos\TextRPG\TextRPG\Player.cpp(157,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smban\source\repos\TextRPG\TextRPG\Player.cpp(169,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smban\source\repos\TextRPG\TextRPG\Player.cpp(183,29): warning C4018: '>': signed/unsigned mismatch
+C:\Users\smban\source\repos\TextRPG\TextRPG\Player.cpp(202,22): warning C4018: '<': signed/unsigned mismatch
+  Stats.cpp
+  Generating code
+  171 of 363 functions (47.1%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    33 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TextRPG.vcxproj -> C:\Users\smban\source\repos\TextRPG\Release\TextRPG.exe
