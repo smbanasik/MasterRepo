@@ -1,0 +1,35 @@
+﻿  Source.cpp
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(16): warning C4091: 'static ': ignored on left of 'tag_class::tagTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(17): warning C4091: 'static ': ignored on left of 'tag_class::targetTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\item_class.h(25): warning C4091: 'static ': ignored on left of 'item_class::targetType' when no variable is declared
+  ingredient_class.cpp
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(16): warning C4091: 'static ': ignored on left of 'tag_class::tagTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(17): warning C4091: 'static ': ignored on left of 'tag_class::targetTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\item_class.h(25): warning C4091: 'static ': ignored on left of 'item_class::targetType' when no variable is declared
+  item_class.cpp
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(16): warning C4091: 'static ': ignored on left of 'tag_class::tagTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(17): warning C4091: 'static ': ignored on left of 'tag_class::targetTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\item_class.h(25): warning C4091: 'static ': ignored on left of 'item_class::targetType' when no variable is declared
+  productUsable_class.cpp
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(16): warning C4091: 'static ': ignored on left of 'tag_class::tagTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(17): warning C4091: 'static ': ignored on left of 'tag_class::targetTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\item_class.h(25): warning C4091: 'static ': ignored on left of 'item_class::targetType' when no variable is declared
+  tagHandler_class.cpp
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(16): warning C4091: 'static ': ignored on left of 'tag_class::tagTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(17): warning C4091: 'static ': ignored on left of 'tag_class::targetTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\item_class.h(25): warning C4091: 'static ': ignored on left of 'item_class::targetType' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tagHandler_class.cpp(12,78): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tagHandler_class.cpp(25,90): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+  tag_class.cpp
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(16): warning C4091: 'static ': ignored on left of 'tag_class::tagTypeEnum' when no variable is declared
+C:\Users\smban\source\repos\AbstractCraftingSystem\AbstractCraftingSystem\tag_class.h(17): warning C4091: 'static ': ignored on left of 'tag_class::targetTypeEnum' when no variable is declared
+  Generating Code...
+  AbstractCraftingSystem.vcxproj -> C:\Users\smban\source\repos\AbstractCraftingSystem\x64\Debug\AbstractCraftingSystem.exe
